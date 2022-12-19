@@ -1,11 +1,11 @@
-CBN http://ceb1.live.upx.net.br:8030/stream.aac
-JP http://paineldj2.com.br:8200
-JovemPanNews http://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC.aac
-Educadora http://167.114.103.39:8766/stream 
-Laser http://xh9wo.srv27.brasilstream.com.br:8577/stream
-Central http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC
-BandNews http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
-Antena1 http://antena1.newradio.it/stream
-Kiss -playlist https://cloud2.cdnseguro.com:20000/listen.pls
-Gazeta -playlist https://shout25.crossradio.com.br:18156/listen.pls
-Spotify spotify
+CBN,http://ceb1.live.upx.net.br:8030/stream.aac
+JP,http://paineldj2.com.br:8200
+JovemPanNews,http://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC.aac
+Educadora,http://167.114.103.39:8766/stream 
+Laser,http://xh9wo.srv27.brasilstream.com.br:8577/stream
+Central,http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC
+BandNews,http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+Antena1,http://antena1.newradio.it/stream
+Kiss,-playlist https://cloud2.cdnseguro.com:20000/listen.pls
+Gazeta,-playlist https://shout25.crossradio.com.br:18156/listen.pls
+Spotify,spotify
