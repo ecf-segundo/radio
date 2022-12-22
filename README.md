@@ -1,4 +1,4 @@
-# radio
+# radio cli...
 Radio Player
 
 Files radio.py / radio1.py / radio.sh use file radio.txt as "database"
@@ -13,3 +13,4 @@ For RHEL/Centos/Fedora/...
 For Debian/Ubuntu/...
 - sudo apt install python3 python3-dialog
 
+* Radios station of example are from Brazil as shell script for search
