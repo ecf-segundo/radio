@@ -1,0 +1,122 @@
+Educadora,http://167.114.103.39:8766/stream 
+Central,http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC
+Antena1,http://antena1.newradio.it/stream
+CBN,http://ceb1.live.upx.net.br:8030/stream.aac
+BandNews,http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+JP,http://paineldj2.com.br:8200
+JovemPanNews,http://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC.aac
+JK Notícias,https://08.stmip.net:8578/
+Super Rádio Tupi 96.5 FM,https://8923.brasilstream.com.br/stream
+Rádio Super 91.7 FM,https://9134.brasilstream.com.br/mp3
+Rádio Educadora 104.9 FM,https://9316.brasilstream.com.br/stream
+Rádio 98 FM,https://9554.brasilstream.com.br/stream
+Rádio Hot 107 FM,https://9772.brasilstream.com.br/stream
+Europe 1 104.7 FM,https://ais-live.cloud-services.paris/europe1.mp3
+1000 Hits Love,https://ais-sa2.cdnstream1.com/2210_128.mp3
+Rádio Star,https://c6.radioboss.fm:8264/rdstar
+Rádio Band 95.5 FM,https://cast4.hoost.com.br:20216/stream
+Rádio Cidade Itajubá Light,https://cast4.zadax.com.br:8104/live
+Rádio Hits HD,https://casthttps1.suaradionanet.net/13388/stream
+Rádio Integração 87.5 FM,https://cast.tendaweb.com.br/proxy/radiointegracaofm?mp=/stream
+Rádio Dracena,https://cc3.streammaximum.com:20001/stream
+Rádio Sinai Web Gospel,https://centova4.transmissaodigital.com:20278/stream
+Rádio Onda Livre 105.3 FM,https://centova.svdns.com.br:20016/stream
+Rádio Alternativa 104.9 FM,https://conecta.welltecnologia.com.br/radio/8200/stream
+Radio El Espectador 810 AM,https://espectador1.net.com.uy:8122/stream
+Rádio Excesso FM 90.9,https://excessocast.com.br/radio/8000/excessofm
+Rádio Morada Sertaneja,https://hts02.kshost.com.br:12594/live
+Plus Rádio Fortaleza,https://hts02.kshost.com.br:13168/live
+Rádio Cristã de Maringá,https://hts03.kshost.com.br:12156/live
+Rádio Rota Do Rodeio,https://hts04.kshost.com.br:12986/live
+Black In Love Radio,https://hts05.kshost.com.br:9890/live
+Rádio Visionária,https://hts06.kshost.com.br:11956/live
+Alternativa Esportes Webrádio,https://hts08.kshost.com.br:12592/live
+Rádio Capitania,https://hts09.kshost.com.br:12600/live
+Rádio Banda B 550 AM 79.3 FM,https://ice.fabricahost.com.br/bandabctb
+Rádio Clube Sul de Minas 103.1 FM,https://ice.fabricahost.com.br/clubefmvarginha
+Rádio Nativa 93.5 FM,https://ice.fabricahost.com.br/nativafmlitoral
+Rádio Onda Sul 94.9 FM,https://ice.fabricahost.com.br/ondasulfm
+Rádio T 88.1 FM,https://ice.fabricahost.com.br/radiotfoz
+Rádio Hits 99.7 FM,https://paineldj.com.br:20028/stream
+Rádio Na Voz Delas,https://player.painelvox.com/player-ssl/8694
+Radio Antena 2 650 AM,https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA_2_BOG_SC
+Rádio BH FM 102.1,https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac?dist=radioscombr
+Caracol Radio 100.9 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+Rádio CBN Brasília 95.3 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BSBAAC.aac?dist=radioscombr
+Rádio CBN Rio 92.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=radioscombr
+Rádio CBN São Paulo 90.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
+Rádio Nova Brasil 89.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+Rádio Positividade 104.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADE_FM.mp3
+Rádio Globo RJ 98.1 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
+Rádio Trans Mundial - RTM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC
+Radio Rivadavia 630 AM,https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
+Radio Saudade 99.7 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
+Rádio Ativa Mais HD,https://player.srvaudio.com.br/player-ssl/11460/
+Radio Guavira 103.1 FM,https://player.srvaudio.com.br/player-ssl/11504/
+Rádio Nativa 92.5 FM,https://player.srvaudio.com.br/player-ssl/9468/
+Rádio Keops FM,https://player.srvsh.com.br/proxy/7016
+Rádio Saudade Web,https://player-ssl.painelstream.net:9036/live
+Love Music Fm,https://player.streaminghd.net.br/ssl.php?p=7324&s=stm3
+Rádio Shekinah Só Louvor,https://player.voxpainel.com.br/proxy/7076
+Rádio Gospel Adorando,https://r15.ciclano.io:14391/stream
+Radio Carve 850 AM,https://radiolatina.live/9202/stream
+Rádio Rambo Metal,https://s01.maxcast.com.br:8063/live
+Esportes Total,https://s03.maxcast.com.br:8006/live
+Rádio Sol Nascente DF,https://s05.maxcast.com.br:8242/live
+Web Rádio Piabanha,https://s11.maxcast.com.br:8168/live
+City Web Rádio,https://s14.maxcast.com.br:8142/live
+Radio Gospel Life,https://s15.maxcast.com.br:8296/live
+Rádio Fla Gol,https://s17.maxcast.com.br:8168/live?id=824974197929
+Web Vintage Radio,https://s1.voscast.com:10563/webvintage
+O Melhor do Futebol,https://s22.maxcast.com.br:8102/live
+MS Web Rádio,https://s25.maxcast.com.br:8108/live
+Rádio Liderança 91.3 FM,https://s28.maxcast.com.br:8868/live
+Disco Funk,https://s30.maxcast.com.br:8084/live
+Rádio Caiuás,https://s32.maxcast.com.br:8092/live
+Web Rádio Verdão,https://s45.hstbr.net:8062/live
+Rádio Estação Pop,https://s46.maxcast.com.br:8026/live
+Rádio João Pessoa 97.7 FM,https://serv3.audiovox.pw:7084/stream
+Rádio Clube 99.3 FM,https://server01.ouvir.radio.br:8003/stream
+Radio Jazz Medley,https://server01.ouvir.radio.br:8006/stream
+Rádio Melodia 102.3 FM,https://server01.ouvir.radio.br:8033/stream
+Rádio Jovem Pan 107.3 FM,https://server01.ouvir.radio.br:8042/stream
+Bons Tempos FM,https://server02.ouvir.radio.br:8050/stream
+Rádio Nova 89.5 FM,https://server2.webradios.com.br:19128/9128
+Rádio Super Pajeú 99.3 FM,https://server3.webradios.com.br:19434/9434
+Rádio Clube News 90.9 FM,https://servidor14-3.brlogic.com:7540/live
+Rádio Saquarema Surf Rock,https://servidor17.brlogic.com:7202/live
+Rádio Jovem Pira 102.7 FM,https://servidor23-5.brlogic.com:7722/live
+Rádio Canoa Grande 90.7 FM,https://servidor39.brlogic.com:8300/live
+Rádio Tropical 95.3 FM,https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
+Rádio Imigrantes 100.9 FM,https://sonic.lestetronics.com.br:7001/
+Rádio CV Mais 97.5 FM,https://ssl1.transmissaodigital.com:20098/
+Rádio Super Gospel Vale,https://ssl.hdradios.net:7394/stream
+Web Vinil RN,https://ssl.srvstm.com:6704/
+Bom Gosto,https://ssl.xcast.com.br:11408/stream
+Rádio Inconfidência 100.9 FM,https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream
+Rádio Band FM 101.1,https://stm01.virtualcast.com.br:8216/live
+Rádio Onda Sul 100.7 FM,https://stm01.virtualcast.com.br:8886/live
+Rádio Arena 103.1 FM,https://stm12.xcast.com.br:7672/stream
+Rádio Super Músicas,https://stm17.srvstm.com:7172/
+Rádio Voz Poços,https://stm1.radionline.top:7088/stream
+Flash Disco Dance,https://stm1.srvif.com:21764/
+Flash Disco Dance 80,https://stm1.srvif.com:6676/
+Cidade Light,https://stm1.voxplayer.com.br:7126/
+Rádio Musical Gospel,https://stm1.xcast.com.br:8258/stream
+Acesita FM,https://stm1.xcast.com.br:9470/stream
+Rádio Zonadez,https://stm22.srvaudio.com.br:10056/stream
+Alternativa Sertaneja,https://stm25.srvaudio.com.br:11068/
+Flash Disco Dance - Old School,https://stm2.srvif.com:6678/
+Rádio Sucesso 87.7 FM,https://stm2.streamproarte.com.br:7196/stream
+Rádio Referência Do Samba,https://stm6.srvvox.com.br:7290/stream
+Rádio Cidade das Águas 101.3 FM,https://str1.streamhostpg.com.br:8008/stream
+Radio Caravana 750 AM,https://streamingecuador.net:9006/stream
+Rádio 96 FM Bauru,https://streaming.ei3.com.br/radio/8000/mp3
+Rádio Nova Cultura 93.1 FM,https://streaming.ei3.com.br/radio/8010/stream
+Rádio Criativa 98.9 FM,https://streaming.ei3.com.br/radio/8020/radio
+Rádio Energia 97.7 FM,https://streaming.inweb.com.br/energia
+Rádio Tom Brasil,https://streaming.radioempresabrasil.com.br/proxy/tombrasil/stream
+Radio Rock On,https://streaming.radiostreamlive.com/radiorockon_devices
+Rádio Grande Serra 90.9 FM,https://streaming.rmpsite.com.br/rgsararipina/
+Rádio Nova Geração FM,https://www.appradio.app:8152/live
+Laser,http://xh9wo.srv27.brasilstream.com.br:8577/stream
