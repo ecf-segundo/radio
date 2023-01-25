@@ -1,0 +1,442 @@
+Rádio Onda Sul 94.9 FM,https://ice.fabricahost.com.br/ondasulfm,False
+Rádio Liderança 91.3 FM,https://s28.maxcast.com.br:8868/live,False
+Rádio Clube News 90.9 FM,https://servidor14-3.brlogic.com:7540/live,False
+Rádio Sol Nascente DF,https://s05.maxcast.com.br:8242/live,False
+Rádio Voz Poços,https://stm1.radionline.top:7088/stream,False
+Rádio Onda Sul 100.7 FM,https://stm01.virtualcast.com.br:8886/live,False
+Rádio Alternativa 104.9 FM,https://conecta.welltecnologia.com.br/radio/8200/stream,False
+Rádio Energia 97.7 FM,https://streaming.inweb.com.br/energia,False
+Black In Love Radio,https://hts05.kshost.com.br:9890/live,False
+Plus Rádio Fortaleza,https://hts02.kshost.com.br:13168/live,False
+Rádio Hot 107 FM,https://9772.brasilstream.com.br/stream,False
+Radio Rivadavia 630 AM,https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac,False
+Rádio CV Mais 97.5 FM,https://ssl1.transmissaodigital.com:20098/,False
+Bom Gosto,https://ssl.xcast.com.br:11408/stream,False
+Rádio Clube Sul de Minas 103.1 FM,https://ice.fabricahost.com.br/clubefmvarginha,False
+Rádio Rota Do Rodeio,https://hts04.kshost.com.br:12986/live,False
+Rádio Band FM 101.1,https://stm01.virtualcast.com.br:8216/live,False
+Rádio Melodia 102.3 FM,https://server01.ouvir.radio.br:8033/stream,False
+Rádio Cristã de Maringá,https://hts03.kshost.com.br:12156/live,False
+Caracol Radio 100.9 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac,False
+Rádio Nova Cultura 93.1 FM,https://streaming.ei3.com.br/radio/8010/stream,False
+Rádio CBN Rio 92.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=radioscombr,False
+Radio Carve 850 AM,https://radiolatina.live/9202/stream,False
+Rádio Super 91.7 FM,https://9134.brasilstream.com.br/mp3,False
+Bons Tempos FM,https://server02.ouvir.radio.br:8050/stream,False
+Rádio Imigrantes 100.9 FM,https://sonic.lestetronics.com.br:7001/,False
+Web Vintage Radio,https://s1.voscast.com:10563/webvintage,False
+Radio El Espectador 810 AM,https://espectador1.net.com.uy:8122/stream,False
+Rádio Costa do Sol 101.7 FM,https://ice.fabricahost.com.br/radiocostadosol,False
+Rádio Arena 103.1 FM,https://stm12.xcast.com.br:7672/stream,False
+1000 Hits Love,https://ais-sa2.cdnstream1.com/2210_128.mp3,False
+Rádio Jovem Pira 102.7 FM,https://servidor23-5.brlogic.com:7722/live,False
+Rádio Shekinah só Louvor,https://player.voxpainel.com.br/proxy/7076,False
+Alternativa Esportes Webrádio,https://hts08.kshost.com.br:12592/live,False
+Rádio Hits 99.7 FM,https://paineldj.com.br:20028/stream,False
+Rádio Banda B 550 AM 79.3 FM,https://ice.fabricahost.com.br/bandabctb,False
+Rádio João Pessoa 97.7 FM,https://serv3.audiovox.pw:7084/stream,False
+Web Rádio Piabanha,https://s11.maxcast.com.br:8168/live,False
+Rádio Gospel Adorando,https://r15.ciclano.io:14391/stream,False
+MS Web Rádio,https://s25.maxcast.com.br:8108/live,False
+Rádio Estação Pop,https://s46.maxcast.com.br:8026/live,False
+Rádio Nova Geração FM,https://www.appradio.app:8152/live,False
+Rádio Integração 87.5 FM,https://cast.tendaweb.com.br/proxy/radiointegracaofm?mp=/stream,False
+Rádio Nova Brasil 89.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac,False
+Rádio Rambo Metal,https://s01.maxcast.com.br:8063/live,False
+Rádio Musical Gospel,https://stm1.xcast.com.br:8258/stream,False
+Rádio CBN São Paulo 90.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac,False
+Rádio 98 FM,https://9554.brasilstream.com.br/stream,False
+Rádio Referência Do Samba,https://stm6.srvvox.com.br:7290/stream,False
+Radio Saudade 99.7 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac,False
+Rádio Jovem Pan 107.3 FM,https://server01.ouvir.radio.br:8042/stream,False
+Rádio BH FM 102.1,https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac?dist=radioscombr,False
+Rádio Saquarema Surf Rock,https://servidor17.brlogic.com:7202/live,False
+Radio Antena 2 650 AM,https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA_2_BOG_SC,False
+Super Rádio Tupi 96.5 FM,https://8923.brasilstream.com.br/stream,False
+Cidade Light,https://stm1.voxplayer.com.br:7126/,False
+Rádio Tropical 95.3 FM,https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream,False
+Radio Guavira 103.1 FM,https://player.srvaudio.com.br/player-ssl/11504/,False
+Rádio Fla Gol,https://s17.maxcast.com.br:8168/live?id=824974197929,False
+Rádio Cidade das Águas 101.3 FM,https://str1.streamhostpg.com.br:8008/stream,False
+Rádio Super Pajeú 99.3 FM,https://server3.webradios.com.br:19434/9434,False
+Radio Gospel Life,https://s15.maxcast.com.br:8296/live,False
+Europe 1 104.7 FM,https://ais-live.cloud-services.paris/europe1.mp3,False
+Rádio CBN Brasília 95.3 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BSBAAC.aac?dist=radioscombr,False
+Radio Caravana 750 AM,https://streamingecuador.net:9006/stream,False
+Rádio 96 FM Bauru,https://streaming.ei3.com.br/radio/8000/mp3,False
+Rádio Morada Sertaneja,https://hts02.kshost.com.br:12594/live,False
+Esportes Total,https://s03.maxcast.com.br:8006/live,False
+Rádio Visionária,https://hts06.kshost.com.br:11956/live,False
+Rádio Nativa 92.5 FM,https://player.srvaudio.com.br/player-ssl/9468/,False
+Rádio Saudade Web,https://player-ssl.painelstream.net:9036/live,False
+Acesita FM,https://stm1.xcast.com.br:9470/stream,False
+Rádio Globo RJ 98.1 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr,False
+Rádio Sinai Web Gospel,https://centova4.transmissaodigital.com:20278/stream,False
+Rádio Trans Mundial - RTM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC,False
+Rádio Excesso FM 90.9,https://excessocast.com.br/radio/8000/excessofm,False
+Rádio Nova 89.5 FM,https://server2.webradios.com.br:19128/9128,False
+Rádio Inconfidência 100.9 FM,https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream,False
+Radio Rock On,https://streaming.radiostreamlive.com/radiorockon_devices,False
+Rádio Dracena,https://cc3.streammaximum.com:20001/stream,False
+Rádio Positividade 104.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADE_FM.mp3,False
+Rádio Ativa Mais HD,https://player.srvaudio.com.br/player-ssl/11460/,False
+Web Vinil RN,https://ssl.srvstm.com:6704/,False
+Bons Tempos FM,https://server02.ouvir.radio.br:8050/stream,False
+Rádio Tom Brasil,https://streaming.radioempresabrasil.com.br/proxy/tombrasil/stream,False
+Rádio Grande Serra 90.9 FM,https://streaming.rmpsite.com.br/rgsararipina/,False
+Rádio Keops FM,https://player.srvsh.com.br/proxy/7016,False
+Rádio Band FM 101.1,https://stm01.virtualcast.com.br:8216/live,False
+Rádio Globo RJ 98.1 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr,False
+Rádio CV Mais 97.5 FM,https://ssl1.transmissaodigital.com:20098/,False
+Radio Jazz Medley,https://server01.ouvir.radio.br:8006/stream,False
+Rádio João Pessoa 97.7 FM,https://serv3.audiovox.pw:7084/stream,False
+Rádio 96 FM Bauru,https://streaming.ei3.com.br/radio/8000/mp3,False
+Rádio CBN São Paulo 90.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac,False
+Rádio Fla Gol,https://s17.maxcast.com.br:8168/live?id=824974197929,False
+Rádio Liderança 91.3 FM,https://s28.maxcast.com.br:8868/live,False
+Rádio Gospel Adorando,https://r15.ciclano.io:14391/stream,False
+Acesita FM,https://stm1.xcast.com.br:9470/stream,False
+Rádio Costa do Sol 101.7 FM,https://ice.fabricahost.com.br/radiocostadosol,False
+Rádio Nova Cultura 93.1 FM,https://streaming.ei3.com.br/radio/8010/stream,False
+Radio Gospel Life,https://s15.maxcast.com.br:8296/live,False
+Rádio Hits 99.7 FM,https://paineldj.com.br:20028/stream,False
+Rádio BH FM 102.1,https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac?dist=radioscombr,False
+Flash Disco Dance,https://stm1.srvif.com:21764/,False
+Rádio Nova Geração FM,https://www.appradio.app:8152/live,False
+Rádio Vida Melhor 105.5 FM,https://servidor32-4.brlogic.com:8480/live,False
+Cidade Light,https://stm1.voxplayer.com.br:7126/,False
+Rádio Hits HD,https://casthttps1.suaradionanet.net/13388/stream,False
+Rádio Caiuás,https://s32.maxcast.com.br:8092/live,False
+Rádio Shekinah só Louvor,https://player.voxpainel.com.br/proxy/7076,False
+Rádio CBN Rio 92.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=radioscombr,False
+Rádio Super Gospel Vale,https://ssl.hdradios.net:7394/stream,False
+Rádio Cidade das Águas 101.3 FM,https://str1.streamhostpg.com.br:8008/stream,False
+Rádio Saquarema Surf Rock,https://servidor17.brlogic.com:7202/live,False
+Rádio Na Voz Delas,https://player.painelvox.com/player-ssl/8694,False
+Disco Funk,https://s30.maxcast.com.br:8084/live,False
+Flash Disco Dance 80,https://stm1.srvif.com:6676/,False
+Alternativa Esportes Webrádio,https://hts08.kshost.com.br:12592/live,False
+Web Vintage Radio,https://s1.voscast.com:10563/webvintage,False
+Rádio Band 95.5 FM,https://cast4.hoost.com.br:20216/stream,False
+Rádio Sol Nascente DF,https://s05.maxcast.com.br:8242/live,False
+Radio Saudade 99.7 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac,False
+Rádio Hot 107 FM,https://9772.brasilstream.com.br/stream,False
+Rádio Capitania,https://hts09.kshost.com.br:12600/live,False
+Rádio Cidade Itajubá Light,https://cast4.zadax.com.br:8104/live,False
+Rádio Canoa Grande 90.7 FM,https://servidor39.brlogic.com:8300/live,False
+Rádio Rota Do Rodeio,https://hts04.kshost.com.br:12986/live,False
+Rádio Zonadez,https://stm22.srvaudio.com.br:10056/stream,False
+Rádio Clube News 90.9 FM,https://servidor14-3.brlogic.com:7540/live,False
+Rádio Energia 97.7 FM,https://streaming.inweb.com.br/energia,False
+Web Rádio Verdão,https://s45.hstbr.net:8062/live,False
+Rádio Alternativa 104.9 FM,https://conecta.welltecnologia.com.br/radio/8200/stream,False
+Rádio Rambo Metal,https://s01.maxcast.com.br:8063/live,False
+Super Rádio Tupi 96.5 FM,https://8923.brasilstream.com.br/stream,False
+Rádio Excesso FM 90.9,https://excessocast.com.br/radio/8000/excessofm,False
+Rádio Arena 103.1 FM,https://stm12.xcast.com.br:7672/stream,False
+Alternativa Sertaneja,https://stm25.srvaudio.com.br:11068/,False
+Rádio Sucesso 87.7 FM,https://stm2.streamproarte.com.br:7196/stream,False
+Rádio Onda Livre 105.3 FM,https://centova.svdns.com.br:20016/stream,False
+Rádio T 88.1 FM,https://ice.fabricahost.com.br/radiotfoz,False
+Rádio Dracena,https://cc3.streammaximum.com:20001/stream,False
+Rádio Jovem Pira 102.7 FM,https://servidor23-5.brlogic.com:7722/live,False
+Rádio Nova Brasil 89.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac,False
+Rádio Clube 99.3 FM,https://server01.ouvir.radio.br:8003/stream,False
+MS Web Rádio,https://s25.maxcast.com.br:8108/live,False
+Rádio Visionária,https://hts06.kshost.com.br:11956/live,False
+Rádio Super Músicas,https://stm17.srvstm.com:7172/,False
+Rádio Trans Mundial - RTM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC,False
+Rádio Criativa 98.9 FM,https://streaming.ei3.com.br/radio/8020/radio,False
+Flash Disco Dance - Old School,https://stm2.srvif.com:6678/,False
+Web Rádio Juac,https://ssl.nortecast.com:7024/,False
+Rádio Nativa 93.5 FM,https://ice.fabricahost.com.br/nativafmlitoral,False
+Rádio CBN Brasília 95.3 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BSBAAC.aac?dist=radioscombr,False
+Esportes Total,https://s03.maxcast.com.br:8006/live,False
+Love Music Fm,https://player.streaminghd.net.br/ssl.php?p=7324&s=stm3,False
+Rádio Sinai Web Gospel,https://centova4.transmissaodigital.com:20278/stream,False
+Rádio Inconfidência 100.9 FM,https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream,https://www.radios.com.br/aovivo/radio-inconfidencia-1009-fm/13306,False
+Beatles Radio.com,,https://www.radios.com.br/aovivo/beatles-radiocom/17309,False
+Rádio Alternativa 104.9 FM,https://conecta.welltecnologia.com.br/radio/8200/stream,https://www.radios.com.br/aovivo/radio-alternativa-1049-fm/8786,False
+Rádio Clube Sul de Minas 103.1 FM,https://ice.fabricahost.com.br/clubefmvarginha,https://www.radios.com.br/aovivo/radio-clube-sul-de-minas-1031-fm/14729,False
+Rádio Musical Gospel,https://stm1.xcast.com.br:8258/stream,https://www.radios.com.br/aovivo/radio-musical-gospel/136340,False
+Bom Gosto,https://ssl.xcast.com.br:11408/stream,https://www.radios.com.br/aovivo/bom-gosto/35810,False
+Rádio Nativa 92.5 FM,https://player.srvaudio.com.br/player-ssl/9468/,https://www.radios.com.br/aovivo/radio-nativa-925-fm/30175,False
+Rádio João Pessoa 97.7 FM,https://serv3.audiovox.pw:7084/stream,https://www.radios.com.br/aovivo/radio-joao-pessoa-977-fm/178614,False
+Radio Rivadavia 630 AM,https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac,https://www.radios.com.br/aovivo/radio-rivadavia-630-am/16738,False
+Rádio Mateus 633,,https://www.radios.com.br/aovivo/radio-mateus-633/101265,False
+Rádio Gospel Adorando,https://r15.ciclano.io:14391/stream,https://www.radios.com.br/aovivo/radio-gospel-adorando/202810,False
+Rádio Onda Sul 94.9 FM,https://ice.fabricahost.com.br/ondasulfm,https://www.radios.com.br/aovivo/radio-onda-sul-949-fm/13882,False
+Acesita FM,https://stm1.xcast.com.br:9470/stream,https://www.radios.com.br/aovivo/acesita-fm/25522,False
+Radio CBN Grandes Lagos 90.9 FM,,https://www.radios.com.br/aovivo/radio-cbn-grandes-lagos-909-fm/28672,False
+Rádio RBN Digital,,https://www.radios.com.br/aovivo/radio-rbn-digital/46251,False
+Blu Radio 89.9 FM,,https://www.radios.com.br/aovivo/blu-radio-899-fm/24615,False
+MS Web Rádio,https://s25.maxcast.com.br:8108/live,https://www.radios.com.br/aovivo/ms-web-radio/62729,False
+Rádio Saudade Web,https://player-ssl.painelstream.net:9036/live,https://www.radios.com.br/aovivo/radio-saudade-web/159795,False
+Rádio BandNews 90.7 FM,,https://www.radios.com.br/aovivo/radio-bandnews-907-fm/116924,False
+Supernova FM,,https://www.radios.com.br/aovivo/supernova-fm/67803,False
+Rádio Nova 89.5 FM,https://server2.webradios.com.br:19128/9128,https://www.radios.com.br/aovivo/radio-nova-895-fm/14090,False
+Plus Rádio Fortaleza,https://hts02.kshost.com.br:13168/live,https://www.radios.com.br/aovivo/plus-radio-fortaleza/62229,False
+Rádio Band FM 101.1,https://stm01.virtualcast.com.br:8216/live,https://www.radios.com.br/aovivo/radio-band-fm-1011/10385,False
+Radio Continental 590 AM,,https://www.radios.com.br/aovivo/radio-continental-590-am/15317,False
+Rádio Nova Brasil 89.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac,https://www.radios.com.br/aovivo/radio-nova-brasil-895-fm/72019,False
+Rádio 98 FM,https://9554.brasilstream.com.br/stream,https://www.radios.com.br/aovivo/radio-98-fm/18495,False
+Radio Oriental 770 AM,,https://www.radios.com.br/aovivo/radio-oriental-770-am/8290,False
+Rádio Fonte,,https://www.radios.com.br/aovivo/radio-fonte/56031,False
+Rádio Cidade das Águas 101.3 FM,https://str1.streamhostpg.com.br:8008/stream,https://www.radios.com.br/aovivo/radio-cidade-das-aguas-1013-fm/11672,False
+Rádio Light 103.9 FM,,https://www.radios.com.br/aovivo/radio-light-1039-fm/13145,False
+Batera Rádio Rock,,https://www.radios.com.br/aovivo/batera-radio-rock/155849,False
+Rádio Eletrônica Mix Brasil,,https://www.radios.com.br/aovivo/radio-eletronica-mix-brasil/143128,False
+Rádio Dracena,https://cc3.streammaximum.com:20001/stream,https://www.radios.com.br/aovivo/radio-dracena/123269,False
+Chante France 90.9 FM,,https://www.radios.com.br/aovivo/chante-france-909-fm/12171,False
+Radio 24 104.8 FM,,https://www.radios.com.br/aovivo/radio-24-1048-fm/16708,False
+RFI Francês 98.7 FM,,https://www.radios.com.br/aovivo/rfi-frances-987-fm/39512,False
+Black In Love Radio,https://hts05.kshost.com.br:9890/live,https://www.radios.com.br/aovivo/black-in-love-radio/29203,False
+Rádio Hot 107 FM,https://9772.brasilstream.com.br/stream,https://www.radios.com.br/aovivo/radio-hot-107-fm/8760,False
+Radio Guavira 103.1 FM,https://player.srvaudio.com.br/player-ssl/11504/,https://www.radios.com.br/aovivo/radio-guavira-1031-fm/33688,False
+Rádio Gospel Campinas,,https://www.radios.com.br/aovivo/radio-gospel-campinas/40462,False
+Party Web Rádio,,https://www.radios.com.br/aovivo/party-web-radio/193070,False
+Rádio Hits 99.7 FM,,https://www.radios.com.br/aovivo/radio-hits-997-fm/8807,False
+FFH 105.9 FM Eurodance,,https://www.radios.com.br/aovivo/ffh-1059-fm-eurodance/34847,False
+Bons Tempos FM,https://server02.ouvir.radio.br:8050/stream,https://www.radios.com.br/aovivo/bons-tempos-fm/37027,False
+Alternativa Esportes Webrádio,https://hts08.kshost.com.br:12592/live,https://www.radios.com.br/aovivo/alternativa-esportes-webradio/69487,False
+Rádio Brasil Hits,,https://www.radios.com.br/aovivo/radio-brasil-hits/32433,False
+Rádio Maisnova 81.9 FM,,https://www.radios.com.br/aovivo/radio-maisnova-819-fm/194735,False
+Rádio Futebol Interior,,https://www.radios.com.br/aovivo/radio-futebol-interior/16685,False
+Web Rádio AC Tec,,https://www.radios.com.br/aovivo/web-radio-ac-tec/144268,False
+Rádio Super 95.5 FM,,https://www.radios.com.br/aovivo/radio-super-955-fm/32982,False
+Radio Love Live,,https://www.radios.com.br/aovivo/radio-love-live/18971,False
+Radio Rock On,https://streaming.radiostreamlive.com/radiorockon_devices,https://www.radios.com.br/aovivo/radio-rock-on/57886,False
+France Info 105.5 FM,,https://www.radios.com.br/aovivo/france-info-1055-fm/12462,False
+Rádio Vida FM Gospel 104.9,,https://www.radios.com.br/aovivo/radio-vida-fm-gospel-1049/14811,False
+Rádio CBN Brasília 95.3 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BSBAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-cbn-brasilia-953-fm/8818,False
+Rádio Cordeiro de Deus,,https://www.radios.com.br/aovivo/radio-cordeiro-de-deus/8789,False
+Rádio Voz Poços,https://stm1.radionline.top:7088/stream,https://www.radios.com.br/aovivo/radio-voz-pocos/142188,False
+Rádio Shekinah só Louvor,https://player.voxpainel.com.br/proxy/7076,https://www.radios.com.br/aovivo/radio-shekinah-so-louvor/15612,False
+Rádio Barroso Mix,,https://www.radios.com.br/aovivo/radio-barroso-mix/61109,False
+Radio Sport 890 AM,,https://www.radios.com.br/aovivo/radio-sport-890-am/8344,False
+Rádio Nova Cultura 93.1 FM,https://streaming.ei3.com.br/radio/8010/stream,https://www.radios.com.br/aovivo/radio-nova-cultura-931-fm/104429,False
+Web Rádio 016,,https://www.radios.com.br/aovivo/web-radio-016/195623,False
+Rádio 102 FM 102.9,,https://www.radios.com.br/aovivo/radio-102-fm-1029/27,False
+Rádio Lupa 1 FM 94.5,,https://www.radios.com.br/aovivo/radio-lupa-1-fm-945/198842,False
+Radio Área Deportiva 99.3 FM,,https://www.radios.com.br/aovivo/radio-area-deportiva-993-fm/37858,False
+Rádio Globo RJ 98.1 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-globo-rj-981-fm/8817,False
+Rádio Banda B 550 AM 79.3 FM,https://ice.fabricahost.com.br/bandabctb,https://www.radios.com.br/aovivo/radio-banda-b-550-am-793-fm/10406,False
+Rádio Super 91.7 FM,https://9134.brasilstream.com.br/mp3,https://www.radios.com.br/aovivo/radio-super-917-fm/24398,False
+Super Rádio Tupi 96.5 FM,https://8923.brasilstream.com.br/stream,https://www.radios.com.br/aovivo/super-radio-tupi-965-fm/14215,False
+Rádio Jornal 91.3 FM,,https://www.radios.com.br/aovivo/radio-jornal-913-fm/13492,False
+Rádio Tupã 97.7 FM,,https://www.radios.com.br/aovivo/radio-tupa-977-fm/14942,False
+Rádio Nova Geração FM,https://www.appradio.app:8152/live,https://www.radios.com.br/aovivo/radio-nova-geracao-fm/32447,False
+Radio Antena 2 650 AM,https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA_2_BOG_SC,https://www.radios.com.br/aovivo/radio-antena-2-650-am/8524,False
+Rádio Onda Poços 96.7 FM,,https://www.radios.com.br/aovivo/radio-onda-pocos-967-fm/110666,False
+Rádio Liderança 91.3 FM,https://s28.maxcast.com.br:8868/live,https://www.radios.com.br/aovivo/radio-lideranca-913-fm/33672,False
+Radio Saudade 99.7 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac,https://www.radios.com.br/aovivo/radio-saudade-997-fm/8,False
+Rádio Uirapuru Jaguaribana 91.5 FM,,https://www.radios.com.br/aovivo/radio-uirapuru-jaguaribana-915-fm/25228,False
+Radio Gospel Life,https://s15.maxcast.com.br:8296/live,https://www.radios.com.br/aovivo/radio-gospel-life/49251,False
+Rádio Super Pajeú 99.3 FM,https://server3.webradios.com.br:19434/9434,https://www.radios.com.br/aovivo/radio-super-pajeu-993-fm/14744,False
+Rádio Difusora Pantanal 101.9 FM,,https://www.radios.com.br/aovivo/radio-difusora-pantanal-1019-fm/12797,False
+Rede Tudo de Bom,,https://www.radios.com.br/aovivo/rede-tudo-de-bom/15637,False
+Radio Dimensione Suono Soft Centro 105.3 FM,,https://www.radios.com.br/aovivo/radio-dimensione-suono-soft-centro-1053-fm/25952,False
+Rádio Arena 103.1 FM,https://stm12.xcast.com.br:7672/stream,https://www.radios.com.br/aovivo/radio-arena-1031-fm/24261,False
+Rádio Voz Alterosa,,https://www.radios.com.br/aovivo/radio-voz-alterosa/101659,False
+Rádio Costa do Sol 101.7 FM,https://ice.fabricahost.com.br/radiocostadosol,https://www.radios.com.br/aovivo/radio-costa-do-sol-1017-fm/12229,False
+Caracol Radio 100.9 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac,https://www.radios.com.br/aovivo/caracol-radio-1009-fm/8520,False
+Rádio Mega 94 FM,,https://www.radios.com.br/aovivo/radio-mega-94-fm/13840,False
+Rádio Antena 1 FM 101.7,,https://www.radios.com.br/aovivo/radio-antena-1-fm-1017/39757,False
+Rádio Integração 87.5 FM,https://cast.tendaweb.com.br/proxy/radiointegracaofm?mp=/stream,https://www.radios.com.br/aovivo/radio-integracao-875-fm/19379,False
+Rádio Cidade Verde 93.5 FM,,https://www.radios.com.br/aovivo/radio-cidade-verde-935-fm/42987,False
+Rádio Positividade 104.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADE_FM.mp3,https://www.radios.com.br/aovivo/radio-positividade-1045-fm/181824,False
+Rádio Excesso FM 90.9,https://excessocast.com.br/radio/8000/excessofm,https://www.radios.com.br/aovivo/radio-excesso-fm-909/134049,False
+Rádio TSF 89.5 FM,,https://www.radios.com.br/aovivo/radio-tsf-895-fm/8959,False
+Rádio Jovem Pira 102.7 FM,https://servidor23-5.brlogic.com:7722/live,https://www.radios.com.br/aovivo/radio-jovem-pira-1027-fm/13540,False
+Rádio CBN Rio 92.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-cbn-rio-925-fm/8819,False
+Rádio Renascer FM,,https://www.radios.com.br/aovivo/radio-renascer-fm/204496,False
+Rádio Mix Music,,https://www.radios.com.br/aovivo/radio-mix-music/124584,False
+Rádio Nova Tupã 100.3 FM,,https://www.radios.com.br/aovivo/radio-nova-tupa-1003-fm/16962,False
+Rádio Tropical 95.3 FM,https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream,https://www.radios.com.br/aovivo/radio-tropical-953-fm/8958,False
+Rádio Visionária,https://hts06.kshost.com.br:11956/live,https://www.radios.com.br/aovivo/radio-visionaria/163920,False
+Radio Agricultura 92.1 FM,,https://www.radios.com.br/aovivo/radio-agricultura-921-fm/6464,False
+Rádio Máxima 97.1 FM,,https://www.radios.com.br/aovivo/radio-maxima-971-fm/13829,False
+Rádio Fan 99.7 FM,,https://www.radios.com.br/aovivo/radio-fan-997-fm/22355,False
+Rádio BandNews SP 96.9 FM,,https://www.radios.com.br/aovivo/radio-bandnews-sp-969-fm/24477,False
+Rádio Sinai Web Gospel,https://centova4.transmissaodigital.com:20278/stream,https://www.radios.com.br/aovivo/radio-sinai-web-gospel/22540,False
+Rádio Gaúcha 93.7 FM,,https://www.radios.com.br/aovivo/radio-gaucha-937-fm/13176,False
+Rádio Sol Nascente DF,https://s05.maxcast.com.br:8242/live,https://www.radios.com.br/aovivo/radio-sol-nascente-df/26659,False
+Rádio 96 FM Bauru,https://streaming.ei3.com.br/radio/8000/mp3,https://www.radios.com.br/aovivo/radio-96-fm-bauru/8756,False
+Rádio Energia 97.7 FM,https://streaming.inweb.com.br/energia,https://www.radios.com.br/aovivo/radio-energia-977-fm/13065,False
+Rádio Onda Sul 100.7 FM,https://stm01.virtualcast.com.br:8886/live,https://www.radios.com.br/aovivo/radio-onda-sul-1007-fm/13881,False
+1000 Hits Love,https://ais-sa2.cdnstream1.com/2210_128.mp3,https://www.radios.com.br/aovivo/1000-hits-love/47161,False
+Rádio BH FM 102.1,https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-bh-fm-1021/8813,False
+Rádio Rambo Metal,https://s01.maxcast.com.br:8063/live,https://www.radios.com.br/aovivo/radio-rambo-metal/202912,False
+Rádio Itatiaia 610 AM 95.7 FM,,https://www.radios.com.br/aovivo/radio-itatiaia-610-am-957-fm/14,False
+Rádio Trans Mundial - RTM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC,https://www.radios.com.br/aovivo/radio-trans-mundial-rtm/18759,False
+Rádio BandNews RJ 90.3 FM,,https://www.radios.com.br/aovivo/radio-bandnews-rj-903-fm/10399,False
+Rádio Cristã de Maringá,https://hts03.kshost.com.br:12156/live,https://www.radios.com.br/aovivo/radio-crista-de-maringa/176724,False
+Rádio Antena 1 99.4 FM,,https://www.radios.com.br/aovivo/radio-antena-1-994-fm/4749,False
+Rádio Reggae 10,,https://www.radios.com.br/aovivo/radio-reggae-10/33913,False
+Radio El Espectador 810 AM,https://espectador1.net.com.uy:8122/stream,https://www.radios.com.br/aovivo/radio-el-espectador-810-am/8258,False
+Rádio Web SP,,https://www.radios.com.br/aovivo/radio-web-sp/208427,False
+Rádio Golo 89.2 FM,,https://www.radios.com.br/aovivo/radio-golo-892-fm/39538,False
+Rádio Referência Do Samba,https://stm6.srvvox.com.br:7290/stream,https://www.radios.com.br/aovivo/radio-referencia-do-samba/199001,False
+Web Vintage Radio,https://s1.voscast.com:10563/webvintage,https://www.radios.com.br/aovivo/web-vintage-radio/61905,False
+DeeJay Radio 97.5 FM,,https://www.radios.com.br/aovivo/deejay-radio-975-fm/143118,False
+Rádio Jovem Pan 107.3 FM,https://server01.ouvir.radio.br:8042/stream,https://www.radios.com.br/aovivo/radio-jovem-pan-1073-fm/14660,False
+Rádio Fla Gol,https://s17.maxcast.com.br:8168/live?id=824974197929,https://www.radios.com.br/aovivo/radio-fla-gol/195257,False
+Rádio Hits 99.7 FM,https://paineldj.com.br:20028/stream,https://www.radios.com.br/aovivo/radio-hits-997-fm/80135,False
+Rádio Melodia 102.3 FM,https://server01.ouvir.radio.br:8033/stream,https://www.radios.com.br/aovivo/radio-melodia-1023-fm/8805,False
+Rádio Imigrantes 100.9 FM,https://sonic.lestetronics.com.br:7001/,https://www.radios.com.br/aovivo/radio-imigrantes-1009-fm/13421,False
+Rádio RFM 93.2 FM,,https://www.radios.com.br/aovivo/radio-rfm-932-fm/8933,False
+Rádio Bandeirantes 840 AM 90.9 FM,,https://www.radios.com.br/aovivo/radio-bandeirantes-840-am-909-fm/10410,False
+Rádio CV Mais 97.5 FM,https://ssl1.transmissaodigital.com:20098/,https://www.radios.com.br/aovivo/radio-cv-mais-975-fm/157979,False
+Rai Radio 1 89.7 FM,,https://www.radios.com.br/aovivo/rai-radio-1-897-fm/12642,False
+Rádio Kboing 100.3 FM,,https://www.radios.com.br/aovivo/radio-kboing-1003-fm/29604,False
+Rádio CBN São Paulo 90.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac,https://www.radios.com.br/aovivo/radio-cbn-sao-paulo-905-fm/8816,False
+Web Rádio Piabanha,https://s11.maxcast.com.br:8168/live,https://www.radios.com.br/aovivo/web-radio-piabanha/80640,False
+Rádio Saquarema Surf Rock,https://servidor17.brlogic.com:7202/live,https://www.radios.com.br/aovivo/radio-saquarema-surf-rock/181506,False
+Rádio Rota Do Rodeio,https://hts04.kshost.com.br:12986/live,https://www.radios.com.br/aovivo/radio-rota-do-rodeio/174753,False
+Cidade Light,https://stm1.voxplayer.com.br:7126/,https://www.radios.com.br/aovivo/cidade-light/25821,False
+Radio Carve 850 AM,https://radiolatina.live/9202/stream,https://www.radios.com.br/aovivo/radio-carve-850-am/8232,False
+Rádio Morada Sertaneja,https://hts02.kshost.com.br:12594/live,https://www.radios.com.br/aovivo/radio-morada-sertaneja/158074,False
+Rádio Estação Pop,https://s46.maxcast.com.br:8026/live,https://www.radios.com.br/aovivo/radio-estacao-pop/29801,False
+Radio Caravana 750 AM,https://streamingecuador.net:9006/stream,https://www.radios.com.br/aovivo/radio-caravana-750-am/9656,False
+Esportes Total,https://s03.maxcast.com.br:8006/live,https://www.radios.com.br/aovivo/esportes-total/170810,False
+Rádio Clube News 90.9 FM,https://servidor14-3.brlogic.com:7540/live,https://www.radios.com.br/aovivo/radio-clube-news-909-fm/190913,False
+Radio Cooperativa 760 AM 93.3 FM,,https://www.radios.com.br/aovivo/radio-cooperativa-760-am-933-fm/6502,False
+Europe 1 104.7 FM,https://ais-live.cloud-services.paris/europe1.mp3,https://www.radios.com.br/aovivo/europe-1-1047-fm/12361,False
+Web Rádio Yhave,,https://www.radios.com.br/aovivo/web-radio-yhave/169790,False
+Rádio Hits 99.7 FM,https://paineldj.com.br:20028/stream,https://www.radios.com.br/aovivo/radio-hits-997-fm/80135,False
+Rádio Rota Do Rodeio,https://hts04.kshost.com.br:12986/live,https://www.radios.com.br/aovivo/radio-rota-do-rodeio/174753,False
+Rádio Caiuás,https://s32.maxcast.com.br:8092/live,https://www.radios.com.br/aovivo/radio-caiuas/172703,False
+Rádio Capitania,https://hts09.kshost.com.br:12600/live,https://www.radios.com.br/aovivo/radio-capitania/171005,False
+Rádio Fla Gol,https://s17.maxcast.com.br:8168/live?id=824974197929,https://www.radios.com.br/aovivo/radio-fla-gol/195257,False
+Gama Esportiva,,https://www.radios.com.br/aovivo/gama-esportiva/65121,False
+Rádio Na Voz Delas,https://player.painelvox.com/player-ssl/8694,https://www.radios.com.br/aovivo/radio-na-voz-delas/176151,False
+Rádio Arena 103.1 FM,https://stm12.xcast.com.br:7672/stream,https://www.radios.com.br/aovivo/radio-arena-1031-fm/24261,False
+Rádio CBN Brasília 95.3 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BSBAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-cbn-brasilia-953-fm/8818,False
+Flash Disco Dance 80,https://stm1.srvif.com:6676/,https://www.radios.com.br/aovivo/flash-disco-dance-80/135855,False
+MS Web Rádio,https://s25.maxcast.com.br:8108/live,https://www.radios.com.br/aovivo/ms-web-radio/62729,False
+Rádio Web SP,,https://www.radios.com.br/aovivo/radio-web-sp/208427,False
+Rádio Band 95.5 FM,https://cast4.hoost.com.br:20216/stream,https://www.radios.com.br/aovivo/radio-band-955-fm/69115,False
+Rádio BandNews 90.7 FM,,https://www.radios.com.br/aovivo/radio-bandnews-907-fm/116924,False
+Rádio Vida Melhor 105.5 FM,https://servidor32-4.brlogic.com:8480/live,https://www.radios.com.br/aovivo/radio-vida-melhor-1055-fm/61953,False
+Rádio BandNews SP 96.9 FM,,https://www.radios.com.br/aovivo/radio-bandnews-sp-969-fm/24477,False
+Rádio Gospel Adorando,https://r15.ciclano.io:14391/stream,https://www.radios.com.br/aovivo/radio-gospel-adorando/202810,False
+Rádio Trans Mundial - RTM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC,https://www.radios.com.br/aovivo/radio-trans-mundial-rtm/18759,False
+Web Vinil RN,https://ssl.srvstm.com:6704/,https://www.radios.com.br/aovivo/web-vinil-rn/164805,False
+Rádio BH FM 102.1,https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-bh-fm-1021/8813,False
+Rádio Zonadez,https://stm22.srvaudio.com.br:10056/stream,https://www.radios.com.br/aovivo/radio-zonadez/209577,False
+Rádio Globo RJ 98.1 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-globo-rj-981-fm/8817,False
+Rádio Keops FM,https://player.srvsh.com.br/proxy/7016,https://www.radios.com.br/aovivo/radio-keops-fm/178008,False
+Rádio Gospel Campinas,,https://www.radios.com.br/aovivo/radio-gospel-campinas/40462,False
+Flash Disco Dance,https://stm1.srvif.com:21764/,https://www.radios.com.br/aovivo/flash-disco-dance/49836,False
+Radio Saudade 99.7 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac,https://www.radios.com.br/aovivo/radio-saudade-997-fm/8,False
+Rádio Fonte,,https://www.radios.com.br/aovivo/radio-fonte/56031,False
+Rádio Cordeiro de Deus,,https://www.radios.com.br/aovivo/radio-cordeiro-de-deus/8789,False
+Disco Funk,https://s30.maxcast.com.br:8084/live,https://www.radios.com.br/aovivo/disco-funk/44516,False
+Rádio CV Mais 97.5 FM,https://ssl1.transmissaodigital.com:20098/,https://www.radios.com.br/aovivo/radio-cv-mais-975-fm/157979,False
+Alternativa Esportes Webrádio,https://hts08.kshost.com.br:12592/live,https://www.radios.com.br/aovivo/alternativa-esportes-webradio/69487,False
+Cidade Light,https://stm1.voxplayer.com.br:7126/,https://www.radios.com.br/aovivo/cidade-light/25821,False
+Rádio Super Músicas,https://stm17.srvstm.com:7172/,https://www.radios.com.br/aovivo/radio-super-musicas/26355,False
+Rádio Mega 94 FM,,https://www.radios.com.br/aovivo/radio-mega-94-fm/13840,False
+Rádio Saquarema Surf Rock,https://servidor17.brlogic.com:7202/live,https://www.radios.com.br/aovivo/radio-saquarema-surf-rock/181506,False
+Rádio Nova Cultura 93.1 FM,https://streaming.ei3.com.br/radio/8010/stream,https://www.radios.com.br/aovivo/radio-nova-cultura-931-fm/104429,False
+Radio Fama 105.0 FM,,https://www.radios.com.br/aovivo/radio-fama-1050-fm/147438,False
+Rádio Liderança 91.3 FM,https://s28.maxcast.com.br:8868/live,https://www.radios.com.br/aovivo/radio-lideranca-913-fm/33672,False
+Rádio 102 FM 102.9,,https://www.radios.com.br/aovivo/radio-102-fm-1029/27,False
+Radio Fama Canal 2 96.4 FM,,https://www.radios.com.br/aovivo/radio-fama-canal-2-964-fm/150198,False
+Acesita FM,https://stm1.xcast.com.br:9470/stream,https://www.radios.com.br/aovivo/acesita-fm/25522,False
+Web Rádio 016,,https://www.radios.com.br/aovivo/web-radio-016/195623,False
+Rádio Visionária,https://hts06.kshost.com.br:11956/live,https://www.radios.com.br/aovivo/radio-visionaria/163920,False
+Rádio Nativa 106.1 FM,,https://www.radios.com.br/aovivo/radio-nativa-1061-fm/12812,False
+Web Rádio AC Tec,,https://www.radios.com.br/aovivo/web-radio-ac-tec/144268,False
+Rádio Antena 1 FM 101.7,,https://www.radios.com.br/aovivo/radio-antena-1-fm-1017/39757,False
+Rádio Hits HD,https://casthttps1.suaradionanet.net/13388/stream,https://www.radios.com.br/aovivo/radio-hits-hd/198476,False
+Esportes Total,https://s03.maxcast.com.br:8006/live,https://www.radios.com.br/aovivo/esportes-total/170810,False
+Rádio Sinai Web Gospel,https://centova4.transmissaodigital.com:20278/stream,https://www.radios.com.br/aovivo/radio-sinai-web-gospel/22540,False
+Rádio RVS 95.7 FM,,https://www.radios.com.br/aovivo/radio-rvs-957-fm/14692,False
+Rádio Dracena,https://cc3.streammaximum.com:20001/stream,https://www.radios.com.br/aovivo/radio-dracena/123269,False
+Rádio Light 103.9 FM,,https://www.radios.com.br/aovivo/radio-light-1039-fm/13145,False
+Batera Rádio Rock,,https://www.radios.com.br/aovivo/batera-radio-rock/155849,False
+Rádio Barroso Mix,,https://www.radios.com.br/aovivo/radio-barroso-mix/61109,False
+Rádio Tom Brasil,https://streaming.radioempresabrasil.com.br/proxy/tombrasil/stream,https://www.radios.com.br/aovivo/radio-tom-brasil/40418,False
+Rádio Grande Serra 90.9 FM,https://streaming.rmpsite.com.br/rgsararipina/,https://www.radios.com.br/aovivo/radio-grande-serra-909-fm/13344,False
+Rádio Sol Nascente DF,https://s05.maxcast.com.br:8242/live,https://www.radios.com.br/aovivo/radio-sol-nascente-df/26659,False
+Rádio Clube 99.3 FM,https://server01.ouvir.radio.br:8003/stream,https://www.radios.com.br/aovivo/radio-clube-993-fm/14659,False
+Rádio Ativa Mais HD,https://player.srvaudio.com.br/player-ssl/11460/,https://www.radios.com.br/aovivo/radio-ativa-mais-hd/47591,False
+Rádio Nova Brasil 89.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac,https://www.radios.com.br/aovivo/radio-nova-brasil-895-fm/72019,False
+Web Rádio Juac,https://ssl.nortecast.com:7024/,https://www.radios.com.br/aovivo/web-radio-juac/142943,False
+Alternativa Sertaneja,https://stm25.srvaudio.com.br:11068/,https://www.radios.com.br/aovivo/alternativa-sertaneja/99250,False
+Rádio Reggae 10,,https://www.radios.com.br/aovivo/radio-reggae-10/33913,False
+Rádio Cidade Verde 93.5 FM,,https://www.radios.com.br/aovivo/radio-cidade-verde-935-fm/42987,False
+Rádio Voz Alterosa,,https://www.radios.com.br/aovivo/radio-voz-alterosa/101659,False
+Rádio Gaúcha 93.7 FM,,https://www.radios.com.br/aovivo/radio-gaucha-937-fm/13176,False
+Rádio Sucesso 87.7 FM,https://stm2.streamproarte.com.br:7196/stream,https://www.radios.com.br/aovivo/radio-sucesso-877-fm/108385,False
+Rádio Itatiaia 610 AM 95.7 FM,,https://www.radios.com.br/aovivo/radio-itatiaia-610-am-957-fm/14,False
+Rádio Lupa 1 FM 94.5,,https://www.radios.com.br/aovivo/radio-lupa-1-fm-945/198842,False
+Rádio Difusora Pantanal 101.9 FM,,https://www.radios.com.br/aovivo/radio-difusora-pantanal-1019-fm/12797,False
+Rádio Cidade das Águas 101.3 FM,https://str1.streamhostpg.com.br:8008/stream,https://www.radios.com.br/aovivo/radio-cidade-das-aguas-1013-fm/11672,False
+Rádio Excesso FM 90.9,https://excessocast.com.br/radio/8000/excessofm,https://www.radios.com.br/aovivo/radio-excesso-fm-909/134049,False
+Rádio Fan 99.7 FM,,https://www.radios.com.br/aovivo/radio-fan-997-fm/22355,False
+Flash Disco Dance - Old School,https://stm2.srvif.com:6678/,https://www.radios.com.br/aovivo/flash-disco-dance-old-school/167915,False
+Bailinho De Garagem,,https://www.radios.com.br/aovivo/bailinho-de-garagem/42243,False
+Rádio Terra MS,,https://www.radios.com.br/aovivo/radio-terra-ms/61133,False
+Rádio Nova Tupã 100.3 FM,,https://www.radios.com.br/aovivo/radio-nova-tupa-1003-fm/16962,False
+Rádio Sucesso 98.3 FM,,https://www.radios.com.br/aovivo/radio-sucesso-983-fm/14717,False
+Web Rádio Verdão,https://s45.hstbr.net:8062/live,https://www.radios.com.br/aovivo/web-radio-verdao/22463,False
+Web Rádio Yhave,,https://www.radios.com.br/aovivo/web-radio-yhave/169790,False
+Rádio Gospel Central,,https://www.radios.com.br/aovivo/radio-gospel-central/155689,False
+Vision Web Rádio,,https://www.radios.com.br/aovivo/vision-web-radio/28955,False
+Rádio Futebol Interior,,https://www.radios.com.br/aovivo/radio-futebol-interior/16685,False
+Rádio Sol Nascente,,https://www.radios.com.br/aovivo/radio-sol-nascente/208968,False
+Rádio Inconfidentes 87.9 FM,,https://www.radios.com.br/aovivo/radio-inconfidentes-879-fm/13430,False
+Rádio Dence,,https://www.radios.com.br/aovivo/radio-dence/8853,False
+Rádio Bandeirantes 840 AM 90.9 FM,,https://www.radios.com.br/aovivo/radio-bandeirantes-840-am-909-fm/10410,False
+Rádio Onda Livre 105.3 FM,https://centova.svdns.com.br:20016/stream,https://www.radios.com.br/aovivo/radio-onda-livre-1053-fm/13877,False
+Rádio Alternativa 104.9 FM,https://conecta.welltecnologia.com.br/radio/8200/stream,https://www.radios.com.br/aovivo/radio-alternativa-1049-fm/8786,False
+Rádio 96 FM Bauru,https://streaming.ei3.com.br/radio/8000/mp3,https://www.radios.com.br/aovivo/radio-96-fm-bauru/8756,False
+Rádio Brasil Hits,,https://www.radios.com.br/aovivo/radio-brasil-hits/32433,False
+Rádio Nativa 93.5 FM,https://ice.fabricahost.com.br/nativafmlitoral,https://www.radios.com.br/aovivo/radio-nativa-935-fm/117114,False
+Rádio João Pessoa 97.7 FM,https://serv3.audiovox.pw:7084/stream,https://www.radios.com.br/aovivo/radio-joao-pessoa-977-fm/178614,False
+Love Music Fm,https://player.streaminghd.net.br/ssl.php?p=7324&s=stm3,https://www.radios.com.br/aovivo/love-music-fm/43334,False
+Rádio Hot 107 FM,https://9772.brasilstream.com.br/stream,https://www.radios.com.br/aovivo/radio-hot-107-fm/8760,False
+Bons Tempos FM,https://server02.ouvir.radio.br:8050/stream,https://www.radios.com.br/aovivo/bons-tempos-fm/37027,False
+Web Vintage Radio,https://s1.voscast.com:10563/webvintage,https://www.radios.com.br/aovivo/web-vintage-radio/61905,False
+Rádio Brasil Cidadão,,https://www.radios.com.br/aovivo/radio-brasil-cidadao/160680,False
+Rádio CBN Rio 92.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=radioscombr,https://www.radios.com.br/aovivo/radio-cbn-rio-925-fm/8819,False
+Rádio Cidade Itajubá Light,https://cast4.zadax.com.br:8104/live,https://www.radios.com.br/aovivo/radio-cidade-itajuba-light/19783,False
+Rádio Invasora 1,,https://www.radios.com.br/aovivo/radio-invasora-1/166480,False
+Radio Jazz Medley,https://server01.ouvir.radio.br:8006/stream,https://www.radios.com.br/aovivo/radio-jazz-medley/8845,False
+Super Rádio Tupi 96.5 FM,https://8923.brasilstream.com.br/stream,https://www.radios.com.br/aovivo/super-radio-tupi-965-fm/14215,False
+Rádio RBN Digital,,https://www.radios.com.br/aovivo/radio-rbn-digital/46251,False
+Rádio Jovem Pira 102.7 FM,https://servidor23-5.brlogic.com:7722/live,https://www.radios.com.br/aovivo/radio-jovem-pira-1027-fm/13540,False
+Rádio Nova Geração FM,https://www.appradio.app:8152/live,https://www.radios.com.br/aovivo/radio-nova-geracao-fm/32447,False
+Rádio Canoa Grande 90.7 FM,https://servidor39.brlogic.com:8300/live,https://www.radios.com.br/aovivo/radio-canoa-grande-907-fm/70055,False
+Rádio Criativa 98.9 FM,https://streaming.ei3.com.br/radio/8020/radio,https://www.radios.com.br/aovivo/radio-criativa-989-fm/12237,False
+Rádio Energia 97.7 FM,https://streaming.inweb.com.br/energia,https://www.radios.com.br/aovivo/radio-energia-977-fm/13065,False
+Rádio Rambo Metal,https://s01.maxcast.com.br:8063/live,https://www.radios.com.br/aovivo/radio-rambo-metal/202912,False
+Rádio T 88.1 FM,https://ice.fabricahost.com.br/radiotfoz,https://www.radios.com.br/aovivo/radio-t-881-fm/69511,False
+Rádio Shekinah só Louvor,https://player.voxpainel.com.br/proxy/7076,https://www.radios.com.br/aovivo/radio-shekinah-so-louvor/15612,False
+Radio Gospel Life,https://s15.maxcast.com.br:8296/live,https://www.radios.com.br/aovivo/radio-gospel-life/49251,False
+Rádio CBN São Paulo 90.5 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac,https://www.radios.com.br/aovivo/radio-cbn-sao-paulo-905-fm/8816,False
+Rádio Costa do Sol 101.7 FM,https://ice.fabricahost.com.br/radiocostadosol,https://www.radios.com.br/aovivo/radio-costa-do-sol-1017-fm/12229,False
+Rádio Clube News 90.9 FM,https://servidor14-3.brlogic.com:7540/live,https://www.radios.com.br/aovivo/radio-clube-news-909-fm/190913,False
+Rádio Super Gospel Vale,https://ssl.hdradios.net:7394/stream,https://www.radios.com.br/aovivo/radio-super-gospel-vale/198548,False
+Rádio Band FM 101.1,https://stm01.virtualcast.com.br:8216/live,https://www.radios.com.br/aovivo/radio-band-fm-1011/10385,False
+Rádio Kboing 100.3 FM,,https://www.radios.com.br/aovivo/radio-kboing-1003-fm/29604,False
+Rádio Super 95.5 FM,,https://www.radios.com.br/aovivo/radio-super-955-fm/32982,False
+Beat Street,,https://www.radios.com.br/aovivo/beat-street/192584,False
+Rádio Hits 99.7 FM,,https://www.radios.com.br/aovivo/radio-hits-997-fm/8807,False
+Rádio Tupã 97.7 FM,,https://www.radios.com.br/aovivo/radio-tupa-977-fm/14942,False
+Rádio Jornal 91.3 FM,,https://www.radios.com.br/aovivo/radio-jornal-913-fm/13492,False
+Rádio Mix Music,,https://www.radios.com.br/aovivo/radio-mix-music/124584,False
+Rádio Maisnova 81.9 FM,,https://www.radios.com.br/aovivo/radio-maisnova-819-fm/194735,False
+Rádio Serra 88.5 FM,,https://www.radios.com.br/aovivo/radio-serra-885-fm/14573,False
+CBN,http://ceb1.live.upx.net.br:8030/stream.aac,True
+JP,http://paineldj2.com.br:8200,True
+JovemPanNews,http://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC.aac,True
+Educadora,http://167.114.103.39:8766/stream,True
+Laser,http://xh9wo.srv27.brasilstream.com.br:8577/stream,True
+Central,http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC,True
+BandNews,http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8,True
+Antena1,http://antena1.newradio.it/stream,True
+Kiss,-playlist https://cloud2.cdnseguro.com:20000/listen.pls,True
+Gazeta,-playlist https://shout25.crossradio.com.br:18156/listen.pls,True

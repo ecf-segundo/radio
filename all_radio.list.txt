@@ -1,3 +1,10 @@
+Educadora,http://167.114.103.39:8766/stream 
+Central,http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC
+Antena1,http://antena1.newradio.it/stream
+CBN,http://ceb1.live.upx.net.br:8030/stream.aac
+BandNews,http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+JP,http://paineldj2.com.br:8200
+JovemPanNews,http://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC.aac
 JK Notícias,https://08.stmip.net:8578/
 Super Rádio Tupi 96.5 FM,https://8923.brasilstream.com.br/stream
 Rádio Super 91.7 FM,https://9134.brasilstream.com.br/mp3
@@ -6,13 +13,14 @@ Rádio 98 FM,https://9554.brasilstream.com.br/stream
 Rádio Hot 107 FM,https://9772.brasilstream.com.br/stream
 Europe 1 104.7 FM,https://ais-live.cloud-services.paris/europe1.mp3
 1000 Hits Love,https://ais-sa2.cdnstream1.com/2210_128.mp3
-Rádio Star,https://c6.radioboss.fm:18264/rdstar
+Rádio Star,https://c6.radioboss.fm:8264/rdstar
 Rádio Band 95.5 FM,https://cast4.hoost.com.br:20216/stream
 Rádio Cidade Itajubá Light,https://cast4.zadax.com.br:8104/live
 Rádio Hits HD,https://casthttps1.suaradionanet.net/13388/stream
 Rádio Integração 87.5 FM,https://cast.tendaweb.com.br/proxy/radiointegracaofm?mp=/stream
 Rádio Dracena,https://cc3.streammaximum.com:20001/stream
 Rádio Sinai Web Gospel,https://centova4.transmissaodigital.com:20278/stream
+Rádio Onda Livre 105.3 FM,https://centova.svdns.com.br:20016/stream
 Rádio Alternativa 104.9 FM,https://conecta.welltecnologia.com.br/radio/8200/stream
 Radio El Espectador 810 AM,https://espectador1.net.com.uy:8122/stream
 Rádio Excesso FM 90.9,https://excessocast.com.br/radio/8000/excessofm
@@ -29,10 +37,8 @@ Rádio Clube Sul de Minas 103.1 FM,https://ice.fabricahost.com.br/clubefmvarginh
 Rádio Nativa 93.5 FM,https://ice.fabricahost.com.br/nativafmlitoral
 Rádio Onda Sul 94.9 FM,https://ice.fabricahost.com.br/ondasulfm
 Rádio T 88.1 FM,https://ice.fabricahost.com.br/radiotfoz
-Rádio Gospel Caiobá,https://live9.livemus.com.br:27422/stream
-Rádio Onda Poços 96.7 FM,https://live.virtualcast.com.br/ondapocos
 Rádio Hits 99.7 FM,https://paineldj.com.br:20028/stream
-Rádio Vinde Internacional,https://player.painelvox.com/player-ssl/14750/
+Rádio Na Voz Delas,https://player.painelvox.com/player-ssl/8694
 Radio Antena 2 650 AM,https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA_2_BOG_SC
 Rádio BH FM 102.1,https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac?dist=radioscombr
 Caracol Radio 100.9 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
@@ -47,27 +53,26 @@ Radio Rivadavia 630 AM,https://playerservices.streamtheworld.com/api/livestream-
 Radio Saudade 99.7 FM,https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
 Rádio Ativa Mais HD,https://player.srvaudio.com.br/player-ssl/11460/
 Radio Guavira 103.1 FM,https://player.srvaudio.com.br/player-ssl/11504/
-Rádio Rouxinóis FM,https://player.srvaudio.com.br/player-ssl/9286/
 Rádio Nativa 92.5 FM,https://player.srvaudio.com.br/player-ssl/9468/
 Rádio Keops FM,https://player.srvsh.com.br/proxy/7016
 Rádio Saudade Web,https://player-ssl.painelstream.net:9036/live
 Love Music Fm,https://player.streaminghd.net.br/ssl.php?p=7324&s=stm3
 Rádio Shekinah Só Louvor,https://player.voxpainel.com.br/proxy/7076
-Web Rádio Top,https://proxy.srvstr.com.br:7044/stream
-Rádio Estância 94.3 FM,https://r13.ciclano.io:15073/stream
 Rádio Gospel Adorando,https://r15.ciclano.io:14391/stream
 Radio Carve 850 AM,https://radiolatina.live/9202/stream
+Rádio Rambo Metal,https://s01.maxcast.com.br:8063/live
 Esportes Total,https://s03.maxcast.com.br:8006/live
 Rádio Sol Nascente DF,https://s05.maxcast.com.br:8242/live
 Web Rádio Piabanha,https://s11.maxcast.com.br:8168/live
 City Web Rádio,https://s14.maxcast.com.br:8142/live
 Radio Gospel Life,https://s15.maxcast.com.br:8296/live
+Rádio Fla Gol,https://s17.maxcast.com.br:8168/live?id=824974197929
 Web Vintage Radio,https://s1.voscast.com:10563/webvintage
-Rádio Estação Imprensa,https://s20.maxcast.com.br:8151/live
-Rádio Web Sertaneja Raiz Tião de Oliveira Só Modão,https://s22.maxcast.com.br:8034/live
 O Melhor do Futebol,https://s22.maxcast.com.br:8102/live
+MS Web Rádio,https://s25.maxcast.com.br:8108/live
 Rádio Liderança 91.3 FM,https://s28.maxcast.com.br:8868/live
 Disco Funk,https://s30.maxcast.com.br:8084/live
+Rádio Caiuás,https://s32.maxcast.com.br:8092/live
 Web Rádio Verdão,https://s45.hstbr.net:8062/live
 Rádio Estação Pop,https://s46.maxcast.com.br:8026/live
 Rádio João Pessoa 97.7 FM,https://serv3.audiovox.pw:7084/stream
@@ -81,34 +86,30 @@ Rádio Super Pajeú 99.3 FM,https://server3.webradios.com.br:19434/9434
 Rádio Clube News 90.9 FM,https://servidor14-3.brlogic.com:7540/live
 Rádio Saquarema Surf Rock,https://servidor17.brlogic.com:7202/live
 Rádio Jovem Pira 102.7 FM,https://servidor23-5.brlogic.com:7722/live
-Rádio Plena Comunhão,https://servidor33.brlogic.com:7046/live
 Rádio Canoa Grande 90.7 FM,https://servidor39.brlogic.com:8300/live
 Rádio Tropical 95.3 FM,https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
 Rádio Imigrantes 100.9 FM,https://sonic.lestetronics.com.br:7001/
 Rádio CV Mais 97.5 FM,https://ssl1.transmissaodigital.com:20098/
 Rádio Super Gospel Vale,https://ssl.hdradios.net:7394/stream
-Rádio Maringá 98.7 FM,https://ssl.srvstm.com:6672/shoutcast
 Web Vinil RN,https://ssl.srvstm.com:6704/
 Bom Gosto,https://ssl.xcast.com.br:11408/stream
 Rádio Inconfidência 100.9 FM,https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream
-Rádio Band FM 101.1,https://stm01.virtualcast.com.br:8216/bandpousoalegre
+Rádio Band FM 101.1,https://stm01.virtualcast.com.br:8216/live
 Rádio Onda Sul 100.7 FM,https://stm01.virtualcast.com.br:8886/live
-Rádio Som Web,https://stm19.xcast.com.br:10658/
+Rádio Arena 103.1 FM,https://stm12.xcast.com.br:7672/stream
+Rádio Super Músicas,https://stm17.srvstm.com:7172/
+Rádio Voz Poços,https://stm1.radionline.top:7088/stream
 Flash Disco Dance,https://stm1.srvif.com:21764/
 Flash Disco Dance 80,https://stm1.srvif.com:6676/
 Cidade Light,https://stm1.voxplayer.com.br:7126/
 Rádio Musical Gospel,https://stm1.xcast.com.br:8258/stream
 Acesita FM,https://stm1.xcast.com.br:9470/stream
 Rádio Zonadez,https://stm22.srvaudio.com.br:10056/stream
-Rádio Vida Viva,https://stm23.xcast.com.br:9886/stream
 Alternativa Sertaneja,https://stm25.srvaudio.com.br:11068/
 Flash Disco Dance - Old School,https://stm2.srvif.com:6678/
 Rádio Sucesso 87.7 FM,https://stm2.streamproarte.com.br:7196/stream
 Rádio Referência Do Samba,https://stm6.srvvox.com.br:7290/stream
-Rádio 365 Pagode,https://str1.castradios.com.br:10984/
-Rádio 365,https://str1.castradios.com.br:10998/
 Rádio Cidade das Águas 101.3 FM,https://str1.streamhostpg.com.br:8008/stream
-Rede de Notícias 1300 AM,https://str.7br.com.br/radio/8050/stream
 Radio Caravana 750 AM,https://streamingecuador.net:9006/stream
 Rádio 96 FM Bauru,https://streaming.ei3.com.br/radio/8000/mp3
 Rádio Nova Cultura 93.1 FM,https://streaming.ei3.com.br/radio/8010/stream
@@ -117,5 +118,5 @@ Rádio Energia 97.7 FM,https://streaming.inweb.com.br/energia
 Rádio Tom Brasil,https://streaming.radioempresabrasil.com.br/proxy/tombrasil/stream
 Radio Rock On,https://streaming.radiostreamlive.com/radiorockon_devices
 Rádio Grande Serra 90.9 FM,https://streaming.rmpsite.com.br/rgsararipina/
-Rádio Club90,https://stream.zeno.fm/l4iobteaqgwuv
 Rádio Nova Geração FM,https://www.appradio.app:8152/live
+Laser,http://xh9wo.srv27.brasilstream.com.br:8577/stream

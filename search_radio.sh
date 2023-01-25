@@ -11,7 +11,7 @@ for aux in $RADIOS; do
 	station=`echo $aux | cut -d "," -f2 | sed 's/_/ /g'`
 	temp_url=`echo $aux | cut -d "," -f1`
 	url=`curl -s $temp_url | grep "'url':'" | cut -d ":" -f2- | cut -d "'" -f2 | sed 's/;//g'`
-	echo $station,$url >> $RadioList
+	echo $station,$url | sed 's/;//g' >> $RadioList
 done
 
 ### Verifica os duplicados / Estações sem url válida

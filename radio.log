@@ -1,0 +1,30 @@
+MPlayer 1.4 (Debian), built with gcc-11 (C) 2000-2019 MPlayer Team
+
+Playing http://xh9wo.srv27.brasilstream.com.br:8577/stream.
+Resolving xh9wo.srv27.brasilstream.com.br for AF_INET6...
+Resolving xh9wo.srv27.brasilstream.com.br for AF_INET...
+Connecting to server xh9wo.srv27.brasilstream.com.br[177.70.28.20]: 8577...
+
+Name   : Rádio Laser 93,3 FM
+Genre  : Sertanejo
+Website: http://www.laser933.com.br
+Public : yes
+Bitrate: 96kbit/s
+Cache size set to 320 KBytes
+Cache fill:  0.00% (0 bytes)   Cache fill:  0.00% (0 bytes)   Cache fill:  0.00% (0 bytes)   Cache fill:  0.00% (0 bytes)   Cache fill:  0.00% (0 bytes)   
+ICY Info: StreamTitle='LEONARDO - DEIXARIA TUDO';
+Cache fill:  5.00% (16384 bytes)   Cache fill:  5.00% (16384 bytes)   Cache fill:  5.00% (16384 bytes)   Cache fill:  5.00% (16384 bytes)   Cache fill:  5.00% (16384 bytes)   Cache fill:  5.00% (16384 bytes)   Cache fill:  5.00% (16384 bytes)   Cache fill:  5.00% (16384 bytes)   Cache fill: 10.00% (32768 bytes)   Cache fill: 10.00% (32768 bytes)   Cache fill: 10.00% (32768 bytes)   Cache fill: 10.00% (32768 bytes)   Cache fill: 10.00% (32768 bytes)   Cache fill: 10.00% (32768 bytes)   Cache fill: 10.00% (32768 bytes)   Cache fill: 15.00% (49152 bytes)   Cache fill: 15.00% (49152 bytes)   Cache fill: 15.00% (49152 bytes)   Cache fill: 15.00% (49152 bytes)   Cache fill: 15.00% (49152 bytes)   Cache fill: 15.00% (49152 bytes)   Cache fill: 15.00% (49152 bytes)   
+
+AAC file format detected.
+==========================================================================
+Opening audio decoder: [ffmpeg] FFmpeg/libavcodec audio decoders
+libavcodec version 58.134.100 (external)
+AUDIO: 44100 Hz, 2 ch, floatle, 0.0 kbit/0.00% (ratio: 0->352800)
+Selected audio codec: [ffaac] afm: ffmpeg (FFmpeg AAC (MPEG-2/MPEG-4 Audio))
+==========================================================================
+AO: [pulse] 44100Hz 2ch floatle (4 bytes per sample)
+Video: no video
+Starting playback...
+A:   0.0 (00.0) of 0.0 (unknown) ??,?% 18% [JA:   0.1 (00.0) of 0.0 (unknown) ??,?% 17% [JA:   0.2 (00.1) of 0.0 (unknown)  0.4% 17% [JA:   0.4 (00.3) of 0.0 (unknown)  0.4% 16% [JA:   0.5 (00.5) of 0.0 (unknown)  0.4% 16% [JA:   0.7 (00.6) of 0.0 (unknown)  0.4% 15% [JA:   0.9 (00.8) of 0.0 (unknown)  0.5% 15% [JA:   1.1 (01.0) of 0.0 (unknown)  0.5% 13% [JA:   1.3 (01.2) of 0.0 (unknown)  0.5% 12% [JA:   1.4 (01.4) of 0.0 (unknown)  0.5% 17% [JA:   1.6 (01.6) of 0.0 (unknown)  0.5% 16% [JA:   1.8 (01.8) of 0.0 (unknown)  0.5% 16% [JA:   2.0 (02.0) of 0.0 (unknown)  0.5% 15% [JA:   2.2 (02.2) of 0.0 (unknown)  0.5% 15% [JA:   2.4 (02.3) of 0.0 (unknown)  0.5% 13% [JA:   2.6 (02.5) of 0.0 (unknown)  0.5% 13% [JA:   2.8 (02.8) of 0.0 (unknown)  0.5% 17% [JA:   3.0 (02.9) of 0.0 (unknown)  0.5% 16% [JA:   3.2 (03.1) of 0.0 (unknown)  0.5% 16% [JA:   3.4 (03.3) of 0.0 (unknown)  0.5% 15% [JA:   3.6 (03.5) of 0.0 (unknown)  0.5% 15% [JA:   3.7 (03.7) of 0.0 (unknown)  0.5% 13% [JA:   3.9 (03.9) of 0.0 (unknown)  0.5% 18% [JA:   4.1 (04.1) of 0.0 (unknown)  0.5% 17% [JA:   4.3 (04.3) of 0.0 (unknown)  0.5% 17% [JA:   4.5 (04.4) of 0.0 (unknown)  0.5% 16% [JA:   4.7 (04.6) of 0.0 (unknown)  0.5% 16% [JA:   4.9 (04.8) of 0.0 (unknown)  0.5% 15% [JA:   5.1 (05.0) of 0.0 (unknown)  0.5% 13% [JA:   5.3 (05.2) of 0.0 (unknown)  0.5% 18% [JA:   5.4 (05.4) of 0.0 (unknown)  0.5% 17% [JA:   5.6 (05.6) of 0.0 (unknown)  0.5% 18% [J
+
+Exiting... (Quit)
