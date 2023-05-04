@@ -8,6 +8,7 @@ File radio-player.py use sqlite3 file radio.db
 
 For radio.py work correctlly is necessary lib subprocess and dialog
 For radio-player is necessary libs: sqlite3, dialog, bs4(Beautiful Soup 4), requests, subprocess
+
 All of them needs python3 and mplayer
 
 * Radios station of example are from Brazil as shell script for search
