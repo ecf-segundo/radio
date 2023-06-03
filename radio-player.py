@@ -88,6 +88,8 @@ def Rplayer(d, cursor):
         d.progressbox(text="\n Utilize * ou / para aumentar ou diminuir o volume \n Tocando agora: " + tag,
                             fd=p.stdout.fileno(),
                             title="Playing... " + tag)
+    else:
+        main()
 
     cursor.close()    
     return True
@@ -121,14 +123,18 @@ def Select_Stations(d, cursor):
                 cursor.execute("UPDATE stations SET status = 0 WHERE id = ?", (item[1],))
                 cursor.fetchall()
         d.msgbox("Estações Atualizadas")
+        main()
 
+    else:
+        main()
+    
     cursor.close()    
     return True
 
 def Search_Stations(d, cursor):
     # Caixa de manu para informar andamento
     if d.yesno("\n Estações são buscadas do site www.radios.com.br", title="Buscar novas estações de radio") != d.OK:
-        return false
+        main()
     else:
         print("Buscando por novas estações... Aguarde")
         print("")
@@ -170,7 +176,7 @@ def Search_Stations(d, cursor):
     d.msgbox("Estações carregadas")
 
     cursor.close()    
-    return True
+    main()
 
 
 # Chamada do main
