@@ -50,14 +50,16 @@ def main():
                 print("Nova opção")
 
         else:
-            print("Operação cancelada")
+            if d.yesno("\n Deseja realmente sair?", title="Sair") != d.OK:
+                main()
+                return True
+            else:
+                ExitPlayer(db,d)
     except:
         print("Error code: 1 - Menu")
 
     # Encerra conexão com o banco de dados
-    db.commit()
-    db.close()
-    d.clear()
+    ExitPlayer(db, d)
 
 
 #Player das estações
@@ -90,9 +92,10 @@ def Rplayer(d, cursor):
                             title="Playing... " + tag)
     else:
         main()
+        return True
 
-    cursor.close()    
-    return True
+    Rplayer(d, cursor)
+
 
 def Select_Stations(d, cursor):
     # Carega dicionario de Radios
@@ -124,9 +127,11 @@ def Select_Stations(d, cursor):
                 cursor.fetchall()
         d.msgbox("Estações Atualizadas")
         main()
+        return True
 
     else:
         main()
+        return True
     
     cursor.close()    
     return True
@@ -135,6 +140,7 @@ def Search_Stations(d, cursor):
     # Caixa de manu para informar andamento
     if d.yesno("\n Estações são buscadas do site www.radios.com.br", title="Buscar novas estações de radio") != d.OK:
         main()
+        return True
     else:
         print("Buscando por novas estações... Aguarde")
         print("")
@@ -177,7 +183,15 @@ def Search_Stations(d, cursor):
 
     cursor.close()    
     main()
+    return True
 
+# Saida do Player
+def ExitPlayer(db, d):
+    db.commit()
+    db.close()
+    d.clear()
+    return True
+    exit
 
 # Chamada do main
 if __name__ == "__main__":
