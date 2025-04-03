@@ -5,6 +5,7 @@ from pyradios import RadioBrowser
 def biblioteca(option):
     if option == '':
         Bool = False
+        print('Buscador de Radio Onine')
         radio = input('Entre com o nome da Radio a ser buscada:  ')
     else:
         Bool = True
@@ -13,19 +14,18 @@ def biblioteca(option):
     # rs -> radio search
     rs = RadioBrowser()
     station = rs.search(name=radio, name_exact=Bool)
-    # SL - Station List
-    #SL = stations[0]['name'],stations[0]['url']
-    #return SL
     return station
 
 # Cria Menu
 def menu(station):
+    print()
     print('--- MENU Radio ---')
     print()
     n_station = range(len(station))
     for n in n_station:
-        print("- " + station[n]['name'])
-    option = input('Entre com o nome da radio: ')
+        print(str(n+1)+ "- " + station[n]['name'])
+    option_num = input('Entre com o número da radio: ')
+    option = station[int(option_num)-1]['name']
     return option
 
 # Função Main
