@@ -12,6 +12,9 @@ def biblioteca(option):
         radio = option
     
     # rs -> radio search
+    if radio == '':
+        print("Saindo")
+        quit()
     rs = RadioBrowser()
     station = rs.search(name=radio, name_exact=Bool)
     return station
@@ -22,9 +25,13 @@ def menu(station):
     print('--- MENU Radio ---')
     print()
     n_station = range(len(station))
+    print("0- Sair")
     for n in n_station:
         print(str(n+1)+ "- " + station[n]['name'])
     option_num = input('Entre com o número da radio: ')
+    if option_num == "0":
+        print("Saindo")
+        quit()
     option = station[int(option_num)-1]['name']
     return option
 
